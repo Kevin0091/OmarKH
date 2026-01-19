@@ -1,0 +1,5 @@
+{
+  "name": "SmartAttend - Teacher's Attendance Hub",
+  "description": "A high-performance school attendance management application for teachers, featuring last-hour absence detection, billet verification, and automated reporting.",
+  "requestFramePermissions": []
+}
